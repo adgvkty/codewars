@@ -1,4 +1,4 @@
-package kata
+package six
 
 import (
 	"strings"

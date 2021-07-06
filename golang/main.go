@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	six "kata/SixKyu"
+	seven "kata/SevenKyu"
 )
 
 func main() {
-	fmt.Println(six.ToWeirdCase("This is a test Looks like you passed"))
+	fmt.Println(seven.Divisors(64))
 }
