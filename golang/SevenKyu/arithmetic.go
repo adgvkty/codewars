@@ -13,3 +13,4 @@ func Arithmetic(a int, b int, operator string) int {
 	}
 	return 0
 }
+	
