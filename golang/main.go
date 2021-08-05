@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	seven "kata/SevenKyu"
+	six "kata/SixKyu"
 )
 
 func main() {
-	fmt.Println(seven.Divisors(64))
+	fmt.Println(six.Split("adsda"))
 }
