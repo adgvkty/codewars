@@ -1,5 +1,6 @@
 package seven
 
+// Arithmetic ...
 func Arithmetic(a int, b int, operator string) int {
 	switch operator {
 	case "add":
@@ -13,4 +14,3 @@ func Arithmetic(a int, b int, operator string) int {
 	}
 	return 0
 }
-	

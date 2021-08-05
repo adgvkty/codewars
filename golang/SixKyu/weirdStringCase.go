@@ -4,6 +4,7 @@ import (
 	"strings"
 )
 
+// ToWeirdCase ...
 func ToWeirdCase(str string) string {
 	var res string
 
