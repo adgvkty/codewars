@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(six.Tickets([]int{25, 25, 25, 25, 50, 100, 50}))
+	fmt.Println(six.Stati("02|15|59, 2|47|16, 02|17|20, 2|32|34, 2|32|34, 2|17|17"))
 }
