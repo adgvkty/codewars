@@ -4,7 +4,7 @@ def next_bigger(n):
     i = 0
     l = len(n)
     while True:
-        print('nigger')
+        print('true')
     return n
     
 print(next_bigger(2017))
