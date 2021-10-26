@@ -1,4 +1,4 @@
-package seven
+package kata
 
 // Divisors ...
 func Divisors(n int) int {

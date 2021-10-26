@@ -2,19 +2,9 @@ package main
 
 import (
 	"fmt"
-	four "kata/ForthKyu"
+	"kata/kata"
 )
 
 func main() {
-	fmt.Println(four.ValidateSolution([][]int{
-		{1, 2, 3, 4, 5, 6, 7, 8, 9},
-		{2, 3, 1, 5, 6, 4, 8, 9, 7},
-		{3, 1, 2, 6, 4, 5, 9, 7, 8},
-		{4, 5, 6, 7, 8, 9, 1, 2, 3},
-		{5, 6, 4, 8, 9, 7, 2, 3, 1},
-		{6, 4, 5, 9, 7, 8, 3, 1, 2},
-		{7, 8, 9, 1, 2, 3, 4, 5, 6},
-		{8, 9, 7, 2, 3, 1, 5, 6, 4},
-		{9, 7, 8, 3, 1, 2, 6, 4, 5}},
-	))
+	fmt.Println(kata.MaximumSubarraySum([]int{-2, 1, -3, 4, -1, 2, 1, -5, 4}))
 }

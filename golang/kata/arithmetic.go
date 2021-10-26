@@ -1,4 +1,4 @@
-package seven
+package kata
 
 // Arithmetic ...
 func Arithmetic(a int, b int, operator string) int {

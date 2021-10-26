@@ -1,4 +1,4 @@
-package six
+package kata
 
 // FindOutlier ...
 func FindOutlier(integers []int) int {

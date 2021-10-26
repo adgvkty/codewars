@@ -1,4 +1,4 @@
-package four
+package kata
 
 import (
 	"fmt"
